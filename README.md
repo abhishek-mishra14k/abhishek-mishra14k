@@ -45,11 +45,11 @@ I love building real-world projects and continuously upgrading my technical skil
   <li><b>Voice-Controlled Virtual Assistant</b><br>
   Automated task execution using speech recognition APIs</li>
 
-  <li><b>Fake Product Identification System</b><br>
-  Flask-based system to detect fake products</li>
+  <li><b>Spotify Clone </b><br>
+ Using HTML and CSS</li>
 
-  <li><b>Blockchain-based EVM System</b><br>
-  Secure electronic voting using blockchain</li>
+  <li><b>Health Detector</b><br>
+  Predicts the covid diseaese</li>
 
   <li><b>Portfolio Website</b><br>
   Personal website showcasing my skills and projects</li>
