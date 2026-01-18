@@ -8,7 +8,7 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
-## 🧑‍💻 Tech Stack
+                                                                                ## 🧑‍💻 Tech Stack
 
 <div align="center">
 
