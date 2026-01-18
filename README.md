@@ -21,21 +21,17 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
-<h2>🔧 Languages & Tools</h2>
+<div align="center">
 
-<b>Programming:</b>
-<p>Python | Java | C | SQL</p>
+| Category | Skills |
+|------------|----------------|
+| 🧑‍💻 **Programming** | Python, Java, C, SQL |
+| 🌐 **Web Development** | HTML, CSS, JavaScript, Node.js, React |
+| ⚙️ **Frameworks & Tools** | Flask, Git, GitHub, MongoDB |
+| 📌 **Other Skills** | Machine Learning, DSA, REST APIs |
 
-<b>Web Development:</b>
-<p>HTML | CSS | JavaScript | Node.js | React</p>
+</div>
 
-<b>Frameworks & Tools:</b>
-<p>Flask | Git | GitHub | MongoDB</p>
-
-<b>Other Skills:</b>
-<p>Machine Learning | DSA | REST APIs</p>
-
-<hr>
 
 <h2>🚀 My Projects</h2>
 <ul>
