@@ -8,9 +8,13 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
- <h2 align="center">Tech Stack 👋</h2>
-
 <div align="center">
+
+## 🚀 Tech Stack
+
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Backend+Developer;Web+Developer;Blockchain+Enthusiast;Open+Source+Contributor" />
+
+<br><br>
 
 | 🚀 Category | 💡 Skills |
 |-------------|------------|
@@ -100,6 +104,11 @@ github.com/abhishek-mishra14k
 </ul>
 
 <hr>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 
 <h2>🧠 Quote of the Day</h2>
 <p>
