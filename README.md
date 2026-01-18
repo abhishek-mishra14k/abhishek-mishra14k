@@ -8,7 +8,7 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
-   <div align="center">   ## 🧑‍💻 Tech Stack  </div>
+ <h2 align="center">Tech Stack 👋</h2>
 
 <div align="center">
 
@@ -23,17 +23,6 @@ I love building real-world projects and continuously upgrading my technical skil
 
 
 <hr>
-
-<div align="center">
-
-| Category | Skills |
-|------------|----------------|
-| 🧑‍💻 **Programming** | Python, Java, C, SQL |
-| 🌐 **Web Development** | HTML, CSS, JavaScript, Node.js, React |
-| ⚙️ **Frameworks & Tools** | Flask, Git, GitHub, MongoDB |
-| 📌 **Other Skills** | Machine Learning, DSA, REST APIs |
-
-</div>
 
 
 <h2>🚀 My Projects</h2>
