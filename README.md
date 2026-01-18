@@ -68,6 +68,14 @@ I love building real-world projects and continuously upgrading my technical skil
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mishra14k&theme=tokyonight" width="60%">
 </p>
 
+
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkushwaha91239-ux&theme=react-dark" />
+</p>
+
+
 <hr>
 
 <h2>💬 Let's Connect</h2>
