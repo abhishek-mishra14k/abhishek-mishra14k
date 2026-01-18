@@ -8,16 +8,19 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
-<h2>🚀 About Me</h2>
-<ul>
-  <li>🎓 B.Tech CSE – Focus on IoT & Blockchain</li>
-  <li>💻 Skilled in Python, Flask, Java, HTML, CSS, JavaScript</li>
-  <li>🔍 Interested in Backend Development, AI & Full Stack</li>
-  <li>🧠 Improving DSA & problem-solving skills</li>
-  <li>🛠 Built multiple projects using Flask & Python</li>
-  <li>🌐 Exploring Cloud, IoT & Blockchain systems</li>
-  <li>📌 Active learner & open-source enthusiast</li>
-</ul>
+## 🧑‍💻 Tech Stack
+
+<div align="center">
+
+| 🚀 Category | 💡 Skills |
+|-------------|------------|
+| 🐍 **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🌐 **Web Dev** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ⚙️ **Tools** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| 📌 **Other** | ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange) ![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge) ![API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge) |
+
+</div>
+
 
 <hr>
 
