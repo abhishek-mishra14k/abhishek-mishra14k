@@ -8,8 +8,9 @@ I love building real-world projects and continuously upgrading my technical skil
 
 <hr>
 
-<div align="center">
 ## 🧑‍💻 Tech Stack
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Backend+Developer;Web+Developer;Blockchain+Enthusiast;Open+Source+Contributor" />
 
